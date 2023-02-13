@@ -83,7 +83,7 @@ var siteIstotope = function() {
 							tl2.to(img, 2, { scale: '1.0', ease:Expo.easeOut }, '-=1.5');
 						} } )
 
-				}, i * 700);
+				}, i * 5700);
 
 				
 

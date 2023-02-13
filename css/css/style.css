@@ -12,7 +12,7 @@ body {
     right: 0;
     bottom: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: #b4b1b2;
     visibility: hidden;
     opacity: 0;
     -webkit-transition: .3s all ease;
@@ -26,14 +26,14 @@ body {
       opacity: 1; }
 
 body, .unslate_co--site-inner {
-  background: #000; }
+  background: #b4b1b2; }
 
 ::-moz-selection {
-  background: #000;
+  background: #b4b1b2;
   color: #fff; }
 
 ::selection {
-  background: #000;
+  background: #b4b1b2;
   color: #fff; }
 
 a {

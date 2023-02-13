@@ -34,7 +34,7 @@ body.offcanvas:before {
 }
 
 body, .unslate_co--site-inner {
-  background: #000;
+  background: #8f8b8a;
 }
 
 ::-moz-selection {
@@ -2035,7 +2035,7 @@ span.error {
   left: 0;
   right: 0;
   bottom: 0;
-  background: black;
+  background: #8f8b8a;
 }
 
 .gsap-reveal-hero {
